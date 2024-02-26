@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **luego1986@gmail.com**
 
-- 📄 Know more about me [I am a 37-year-old developer, tired of a four-walled job, looking for freedom :smile: :raised_hands:](I am a 37-year-old developer, tired of a four-walled job, looking for freedom :smile: :raised_hands:)
+- 📄 Know more about me: I am a 37-year-old developer, tired of a four-walled job, looking for freedom :smile: :raised_hands:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
